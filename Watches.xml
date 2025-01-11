@@ -1,0 +1,6 @@
+﻿<Properties>
+  <WatchEntry0 value="IDRowNum" />
+  <WatchEntry1 value="IDColNum" />
+  <WatchEntry2 value="Operation" />
+  <WatchEntry3 value="SeqNo" />
+</Properties>
